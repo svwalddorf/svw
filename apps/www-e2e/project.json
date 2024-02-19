@@ -1,0 +1,7 @@
+{
+  "name": "www-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/www-e2e/src",
+  "targets": {},
+  "implicitDependencies": ["www"]
+}
